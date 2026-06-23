@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Monah-Limited/SmartClipAI/releases"><img src="https://img.shields.io/badge/Download-DMG-blue?style=for-the-badge&logo=apple" alt="Download DMG"></a>
-  <a href="https://github.com/Monah-Limited/SmartClipAI/stargazers"><img src="https://img.shields.io/github/stars/Monah-Limited/SmartClipAI?style=for-the-badge&logo=github" alt="Stars"></a>
+  <a href="https://github.com/monah-studio/SmartClipAI/releases"><img src="https://img.shields.io/badge/Download-DMG-blue?style=for-the-badge&logo=apple" alt="Download DMG"></a>
+  <a href="https://github.com/monah-studio/SmartClipAI/stargazers"><img src="https://img.shields.io/github/stars/monah-studio/SmartClipAI?style=for-the-badge&logo=github" alt="Stars"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python" alt="Python"></a>
-  <a href="https://github.com/Monah-Limited/SmartClipAI/actions"><img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge" alt="Build"></a>
+  <a href="https://github.com/monah-studio/SmartClipAI/actions"><img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge" alt="Build"></a>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 **English:** Run this in your terminal — it installs everything automatically:
 
 ```bash
-curl -sfL https://raw.githubusercontent.com/Monah-Limited/SmartClipAI/main/scripts/install.sh | sh
+curl -sfL https://raw.githubusercontent.com/monah-studio/SmartClipAI/main/scripts/install.sh | sh
 ```
 
 <div align="center">
@@ -117,7 +117,7 @@ smartclipai status
 
 ### DMG 安装 / DMG Installer
 
-Download from [Releases](https://github.com/Monah-Limited/SmartClipAI/releases):
+Download from [Releases](https://github.com/monah-studio/SmartClipAI/releases):
 
 ```bash
 # Or use the CLI to install from a local build
@@ -127,7 +127,7 @@ smartclipai install
 ### 源码运行 / Run from Source
 
 ```bash
-git clone https://github.com/Monah-Limited/SmartClipAI.git
+git clone https://github.com/monah-studio/SmartClipAI.git
 cd SmartClipAI
 pip install -r requirements.txt
 python src/smartclipai.py
@@ -185,7 +185,7 @@ This project stands on these open-source projects:
 | [**DeepSeek**](https://platform.deepseek.com) | Chat & translation API |
 | [**Anthropic Claude**](https://www.anthropic.com/api) | Chat & analysis API |
 | [**pyperclip**](https://github.com/asweigart/pyperclip) | Cross-platform clipboard access |
-| [**macOS Menu Bar Apps**](https://github.com/Monah-Limited?q=&type=&language=&sort=) | Sister projects in the Monah ecosystem |
+| [**macOS Menu Bar Apps**](https://github.com/monah-studio?q=&type=&language=&sort=) | Sister projects in the Monah ecosystem |
 
 ---
 

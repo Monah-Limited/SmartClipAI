@@ -3,7 +3,7 @@
 # SmartClipAI — One-Line Installer
 # ============================================================================
 # Usage:
-#   curl -sfL https://raw.githubusercontent.com/Monah-Limited/SmartClipAI/main/scripts/install.sh | sh
+#   curl -sfL https://raw.githubusercontent.com/monah-studio/SmartClipAI/main/scripts/install.sh | sh
 #
 # Or from this repo directly:
 #   bash scripts/install.sh
@@ -11,7 +11,7 @@
 
 set -euo pipefail
 
-REPO="Monah-Limited/SmartClipAI"
+REPO="monah-studio/SmartClipAI"
 VERSION="v1.0.0"
 APP_NAME="SmartClipAI"
 APP_DIR="/Applications/$APP_NAME.app"

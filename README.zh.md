@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Monah-Limited/SmartClipAI/releases"><img src="https://img.shields.io/badge/下载-DMG-blue?style=for-the-badge&logo=apple" alt="下载 DMG"></a>
-  <a href="https://github.com/Monah-Limited/SmartClipAI/stargazers"><img src="https://img.shields.io/github/stars/Monah-Limited/SmartClipAI?style=for-the-badge&logo=github" alt="Stars"></a>
+  <a href="https://github.com/monah-studio/SmartClipAI/releases"><img src="https://img.shields.io/badge/下载-DMG-blue?style=for-the-badge&logo=apple" alt="下载 DMG"></a>
+  <a href="https://github.com/monah-studio/SmartClipAI/stargazers"><img src="https://img.shields.io/github/stars/monah-studio/SmartClipAI?style=for-the-badge&logo=github" alt="Stars"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/许可证-MIT-yellow?style=for-the-badge" alt="许可证"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python" alt="Python"></a>
 </p>
@@ -48,7 +48,7 @@
 
 ### 方式一：下载 DMG（推荐）
 
-从 [Releases 页面](https://github.com/Monah-Limited/SmartClipAI/releases) 下载最新的 `.dmg` 文件，打开并将 SmartClipAI.app 拖入 Applications 文件夹。
+从 [Releases 页面](https://github.com/monah-studio/SmartClipAI/releases) 下载最新的 `.dmg` 文件，打开并将 SmartClipAI.app 拖入 Applications 文件夹。
 
 ```bash
 # 首次打开需要：右键 → 打开（因未签名）
@@ -62,7 +62,7 @@
 ### 方式二：源码运行
 
 ```bash
-git clone https://github.com/Monah-Limited/SmartClipAI.git
+git clone https://github.com/monah-studio/SmartClipAI.git
 cd SmartClipAI
 pip install -r requirements.txt
 python src/smartclipai.py

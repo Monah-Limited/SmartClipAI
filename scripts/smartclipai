@@ -89,7 +89,7 @@ ${BLUE}Examples:${NC}
   smartclipai status                           # Check if running
 
 ${BLUE}Install:${NC}
-  curl -sfL https://raw.githubusercontent.com/Monah-Limited/SmartClipAI/main/scripts/install.sh | sh
+  curl -sfL https://raw.githubusercontent.com/monah-studio/SmartClipAI/main/scripts/install.sh | sh
 EOF
 }
 
@@ -158,7 +158,7 @@ cmd_install() {
         ok "Installed from local build."
     else
         warn "No local .app found. Run web installer:"
-        echo "  curl -sfL https://raw.githubusercontent.com/Monah-Limited/SmartClipAI/main/scripts/install.sh | sh"
+        echo "  curl -sfL https://raw.githubusercontent.com/monah-studio/SmartClipAI/main/scripts/install.sh | sh"
     fi
 }
 
