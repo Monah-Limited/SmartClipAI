@@ -189,6 +189,37 @@ This project stands on these open-source projects:
 
 ---
 
+## 🇨🇳 中文
+
+<p align="center">
+  <b><a href="#-english">← English</a> · 中文</b>
+</p>
+
+**SmartClipAI** — macOS 菜单栏 AI 剪贴板助手：翻译、改写、总结、解释代码。
+
+### 功能
+
+- 📋 监听剪贴板变化
+- 🌐 多语言翻译
+- ✍️ AI 改写润色
+- 📝 智能摘要
+- 💻 代码解释
+
+### 键盘快捷键
+
+| 快捷键 | 功能 |
+|--------|------|
+|  | 翻译选中文本 |
+|  | 改写润色 |
+|  | 总结摘要 |
+|  | 解释代码 |
+
+### 致谢
+
+感谢 [rumps](https://github.com/jaredks/rumps)（macOS 菜单栏框架）、[OpenAI](https://platform.openai.com)、[DeepSeek](https://platform.deepseek.com)、[Anthropic](https://www.anthropic.com/api) 提供的 AI API。
+
+---
+
 ## 📄 许可证 / License
 
 **中文：** MIT 许可证 — 可自由使用、修改、分发。
