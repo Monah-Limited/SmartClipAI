@@ -173,6 +173,22 @@ python src/smartclipai.py
 
 ---
 
+## 🙏 Credits / 致谢
+
+This project stands on these open-source projects:
+
+| Project | What it does |
+|---------|-------------|
+| [**rumps**](https://github.com/jaredks/rumps) | macOS menu bar framework |
+| [**PyObjC**](https://github.com/ronaldoussoren/pyobjc) | Python-ObjectiveC bridge for `NSPasteboard` |
+| [**OpenAI**](https://platform.openai.com) | Chat & translation API |
+| [**DeepSeek**](https://platform.deepseek.com) | Chat & translation API |
+| [**Anthropic Claude**](https://www.anthropic.com/api) | Chat & analysis API |
+| [**pyperclip**](https://github.com/asweigart/pyperclip) | Cross-platform clipboard access |
+| [**macOS Menu Bar Apps**](https://github.com/Monah-Limited?q=&type=&language=&sort=) | Sister projects in the Monah ecosystem |
+
+---
+
 ## 📄 许可证 / License
 
 **中文：** MIT 许可证 — 可自由使用、修改、分发。
