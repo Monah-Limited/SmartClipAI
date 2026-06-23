@@ -111,9 +111,9 @@ DMG 文件生成在 `dist/SmartClipAI.dmg`。
 
 ---
 
-## 🧠 "30 天 30 个 macOS 应用"
+## 🧠 "30 Apps in 100 Days"
 
-这是 **30 天 30 个 macOS 开源应用** 挑战的 Day 1 作品。
+这是 **30 Apps in 100 Days** 挑战的 Day 1 作品。100 天内发布 30 个高质量的 macOS 开源工具。
 
 > 关注旅程: [@timwynter](https://github.com/timwynter)
 

@@ -147,11 +147,11 @@ python src/smartclipai.py
 
 ---
 
-## 🧠 "30 天 30 个 macOS 应用" / 30 macOS Apps in 30 Days
+## 🧠 "30 Apps in 100 Days" / 30 Apps in 100 Days
 
-**中文：** 这是 **30 天 30 个 macOS 开源应用** 挑战的 Day 1 作品。每天发布一个高质量的 macOS 开源工具。
+**中文：** 这是 **30 Apps in 100 Days** 挑战的 Day 1 作品。100天内发布 30 个高质量的 macOS 开源工具。
 
-**English:** This is Day 1 of the **30 macOS Apps in 30 Days** challenge — publishing one high-quality open-source macOS app every day.
+**English:** This is Day 1 of the **30 Apps in 100 Days** challenge — publishing 30 high-quality open-source apps in 100 days.
 
 > 关注旅程 / Follow the journey: [@timwynter](https://github.com/timwynter) on GitHub
 
