@@ -205,18 +205,11 @@ This project stands on these open-source projects:
 - 📝 智能摘要
 - 💻 代码解释
 
-### 键盘快捷键
-
-| 快捷键 | 功能 |
-|--------|------|
-|  | 翻译选中文本 |
-|  | 改写润色 |
-|  | 总结摘要 |
-|  | 解释代码 |
+<!-- Keyboard shortcuts are not currently exposed as configurable hotkeys in the menu bar app -->
 
 ### 致谢
 
-感谢 [rumps](https://github.com/jaredks/rumps)（macOS 菜单栏框架）、[OpenAI](https://platform.openai.com)、[DeepSeek](https://platform.deepseek.com)、[Anthropic](https://www.anthropic.com/api) 提供的 AI API。
+感谢 [rumps](https://github.com/jaredks/rumps)（macOS 菜单栏框架）、[OpenAI](https://platform.openai.com)、[DeepSeek](https://platform.deepseek.com)、[Anthropic](https://docs.anthropic.com) 提供的 AI API。
 
 ---
 
